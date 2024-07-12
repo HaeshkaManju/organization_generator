@@ -1,0 +1,28 @@
+Folder PATH listing
+Volume serial number is F614-2D6E
+C:.
+|   output.txt
+|   
++---model
+|   +---config
+|   +---history
+|   \---organization
++---view
+|   +---buttons
+|   +---dropdowns
+|   +---framing
+|   +---input_text
+|   +---labels
+|   +---presentation_pairs
+|   +---tables
+|   \---updates
+\---viewmodel
+    +---calls
+    +---core_logic
+    +---mapping
+    +---queries
+    |   +---create
+    |   +---delete
+    |   +---read
+    |   \---update
+    \---utilities
